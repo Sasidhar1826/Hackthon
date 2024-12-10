@@ -7,7 +7,7 @@ import random
 from quiz_questions import quiz_questions
 
 # Set up your Gemini API key securely
-GEMINI_API_KEY = "AIzaSyBkyu7ABEMNLxCIfxBk7-Yl4if0lS8QtJE"
+GEMINI_API_KEY = "API_KEY"
 
 # Function to generate financial advice using Gemini API
 def get_financial_advice(question):
